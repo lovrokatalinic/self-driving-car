@@ -1,4 +1,4 @@
-# self-driving-car
+# Self-driving car specialization on Coursera
 
 Solution to final project of first course in Self-Driving car specialization on Coursera. 
 
